@@ -1,41 +1,9 @@
 apiVersion: v1
 entries:
-  nacos:
-  - apiVersion: v2
-    appVersion: 2.2.0
-    created: "2023-10-08T15:23:42.985651+08:00"
-    dependencies:
-    - name: common
-      repository: https://charts.bitnami.com/bitnami
-      tags:
-      - bitnami-common
-      version: 2.x.x
-    - condition: mysql.enabled
-      name: mysql
-      repository: https://charts.bitnami.com/bitnami
-      version: 9.x.x
-    description: Chart for nacos, an easy-to-use dynamic service discovery, configuration
-      and service management platform for building cloud native applications.
-    digest: 916e32753f1195cd90ef9488c93f20154c8380d1be574a7d3977eb8c23808cca
-    home: https://nacos.io
-    icon: https://nacos.io/img/nacos_colorful.png
-    keywords:
-    - nacos
-    - dynamic service discovery
-    - configuration and service management platform
-    maintainers:
-    - email: mail@bsgchina.com
-      name: bsg
-    name: nacos
-    sources:
-    - https://github.com/alibaba/nacos
-    urls:
-    - https://upmio.github.io/nacos/nacos-2.1.4.tgz
-    version: 2.1.4
   upm-gateway-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-08T15:23:42.986362+08:00"
+    created: "2023-09-25T14:44:10.04702+08:00"
     description: A Helm chart for Kubernetes
     digest: ce917b847e794a191d632964663c17b83c0465ee0b67c519ad0457f0d70b7ab9
     name: upm-gateway-ms
@@ -46,7 +14,7 @@ entries:
   upm-user-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-08T15:23:42.986939+08:00"
+    created: "2023-09-25T14:44:10.047278+08:00"
     description: A Helm chart for Kubernetes
     digest: 093c3da2c15e5286e47e6c921986b683478e25e04e56207657e47d44e22b0a99
     name: upm-user-ms
@@ -54,4 +22,4 @@ entries:
     urls:
     - https://upmio.github.io/upm-user-ms/upm-user-ms-1.1.0.tgz
     version: 1.1.0
-generated: "2023-10-08T15:23:42.977147+08:00"
+generated: "2023-09-25T14:44:10.04668+08:00"
