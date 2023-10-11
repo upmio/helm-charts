@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  upm-auth-ms:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2023-10-11T22:36:03.219546524+08:00"
+    description: A Helm chart for Kubernetes
+    digest: cd373b3ecedbd502072f48f7973e4eb41dfafdc3b6c84fe440715bcb56bc7ed3
+    name: upm-auth-ms
+    type: application
+    urls:
+    - https://upmio.github.io/upm-auth-ms/upm-auth-ms-1.1.0.tgz
+    version: 1.1.0
   upm-gateway-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-09-25T14:44:10.04702+08:00"
+    created: "2023-10-11T22:36:03.21982964+08:00"
     description: A Helm chart for Kubernetes
     digest: ce917b847e794a191d632964663c17b83c0465ee0b67c519ad0457f0d70b7ab9
     name: upm-gateway-ms
@@ -14,7 +25,7 @@ entries:
   upm-user-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-09-25T14:44:10.047278+08:00"
+    created: "2023-10-11T22:36:03.22012019+08:00"
     description: A Helm chart for Kubernetes
     digest: 093c3da2c15e5286e47e6c921986b683478e25e04e56207657e47d44e22b0a99
     name: upm-user-ms
@@ -22,4 +33,4 @@ entries:
     urls:
     - https://upmio.github.io/upm-user-ms/upm-user-ms-1.1.0.tgz
     version: 1.1.0
-generated: "2023-09-25T14:44:10.04668+08:00"
+generated: "2023-10-11T22:36:03.219079338+08:00"
