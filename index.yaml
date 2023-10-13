@@ -3,7 +3,7 @@ entries:
   upm-auth-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:35:58.423024645+08:00"
+    created: "2023-10-13T19:48:18.560478524+08:00"
     description: A Helm chart for Kubernetes
     digest: acb8697766177bb0e16aa870117d64702b68b48f8845db1e061793eec5fb5691
     name: upm-auth-ms
@@ -14,7 +14,7 @@ entries:
   upm-gateway-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:35:58.423239966+08:00"
+    created: "2023-10-13T19:48:18.560672349+08:00"
     description: A Helm chart for Kubernetes
     digest: 65f96009ba09689988719270ebf238bc36c0a1d70b3fde7a9b6ac2b9730943cc
     name: upm-gateway-ms
@@ -25,7 +25,7 @@ entries:
   upm-operatelog-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:35:58.423430633+08:00"
+    created: "2023-10-13T19:48:18.560879284+08:00"
     description: A Helm chart for Kubernetes
     digest: 3f5bfaf0b74ce1c8d02b5c5bc7cb9aa7c3b7cad7c43e439319f9dd389ec7671e
     name: upm-operatelog-ms
@@ -36,7 +36,7 @@ entries:
   upm-resource-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:35:58.423657105+08:00"
+    created: "2023-10-13T19:48:18.561074669+08:00"
     description: A Helm chart for Kubernetes
     digest: 0f5b2b6b487711e7b10077f17b2331c66cda3f7ae9c12f5664e955334fa7fbb9
     name: upm-resource-ms
@@ -47,7 +47,7 @@ entries:
   upm-service-easysearch-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:35:58.423860074+08:00"
+    created: "2023-10-13T19:48:18.561287348+08:00"
     description: A Helm chart for Kubernetes
     digest: 5123414f92a5ceec60a46dd340c8952773b2c9b85f37eb1ae35502039d419984
     name: upm-service-easysearch-ms
@@ -55,10 +55,21 @@ entries:
     urls:
     - https://upmio.github.io/helm-charts/upm-service-easysearch-ms/upm-service-easysearch-ms-1.1.0.tgz
     version: 1.1.0
+  upm-service-kafka-ms:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2023-10-13T19:48:18.561481082+08:00"
+    description: A Helm chart for Kubernetes
+    digest: a8f7c33682d578005117521235c54cf61c10bed7fd02cd3cd39a08e030fe57e3
+    name: upm-service-kafka-ms
+    type: application
+    urls:
+    - https://upmio.github.io/helm-charts/upm-service-kafka-ms/upm-service-kafka-ms-1.1.0.tgz
+    version: 1.1.0
   upm-user-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:35:58.424077807+08:00"
+    created: "2023-10-13T19:48:18.561670031+08:00"
     description: A Helm chart for Kubernetes
     digest: ca9ebafa3265586a53a08a1047c3f4550ec3d04e31b7f58a3374d6585f966e70
     name: upm-user-ms
@@ -66,4 +77,4 @@ entries:
     urls:
     - https://upmio.github.io/helm-charts/upm-user-ms/upm-user-ms-1.1.0.tgz
     version: 1.1.0
-generated: "2023-10-13T19:35:58.422670547+08:00"
+generated: "2023-10-13T19:48:18.560180588+08:00"
