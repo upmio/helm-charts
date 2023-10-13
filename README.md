@@ -27,7 +27,7 @@ To add new `charts`:
 ```bash
 $ mkdir helm-charts/${new_charts_name}
 $ mv ${new_chart_tgz_package} helm-charts/${new_charts_name} 
-$ helm repo index helm-charts --url https://upmio.github.io
+$ helm repo index helm-charts --url https://upmio.github.io/helm-charts
 ```
 
 
