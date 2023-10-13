@@ -3,7 +3,7 @@ entries:
   upm-auth-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:03:43.673862189+08:00"
+    created: "2023-10-13T19:16:19.928557273+08:00"
     description: A Helm chart for Kubernetes
     digest: acb8697766177bb0e16aa870117d64702b68b48f8845db1e061793eec5fb5691
     name: upm-auth-ms
@@ -14,9 +14,9 @@ entries:
   upm-gateway-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:03:43.67405951+08:00"
+    created: "2023-10-13T19:16:19.928844041+08:00"
     description: A Helm chart for Kubernetes
-    digest: ce917b847e794a191d632964663c17b83c0465ee0b67c519ad0457f0d70b7ab9
+    digest: 65f96009ba09689988719270ebf238bc36c0a1d70b3fde7a9b6ac2b9730943cc
     name: upm-gateway-ms
     type: application
     urls:
@@ -25,7 +25,7 @@ entries:
   upm-operatelog-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:03:43.674264212+08:00"
+    created: "2023-10-13T19:16:19.929046495+08:00"
     description: A Helm chart for Kubernetes
     digest: 3f5bfaf0b74ce1c8d02b5c5bc7cb9aa7c3b7cad7c43e439319f9dd389ec7671e
     name: upm-operatelog-ms
@@ -36,7 +36,7 @@ entries:
   upm-resource-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:03:43.674459857+08:00"
+    created: "2023-10-13T19:16:19.929277755+08:00"
     description: A Helm chart for Kubernetes
     digest: 0f5b2b6b487711e7b10077f17b2331c66cda3f7ae9c12f5664e955334fa7fbb9
     name: upm-resource-ms
@@ -47,7 +47,7 @@ entries:
   upm-user-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-13T19:03:43.674661799+08:00"
+    created: "2023-10-13T19:16:19.929475265+08:00"
     description: A Helm chart for Kubernetes
     digest: ca9ebafa3265586a53a08a1047c3f4550ec3d04e31b7f58a3374d6585f966e70
     name: upm-user-ms
@@ -55,4 +55,4 @@ entries:
     urls:
     - https://upmio.github.io/helm-charts/upm-user-ms/upm-user-ms-1.1.0.tgz
     version: 1.1.0
-generated: "2023-10-13T19:03:43.673541497+08:00"
+generated: "2023-10-13T19:16:19.928236833+08:00"
