@@ -3,7 +3,7 @@ entries:
   tesseract:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-16T17:46:45.303536723+08:00"
+    created: "2023-10-16T17:52:07.65565813+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -15,7 +15,7 @@ entries:
       repository: ""
       version: 0.0.0
     description: Chart for upm unit controller
-    digest: 81397b49976155a9dac65527321748a1a6c3f5cec2456ef539174f8014ab0ea4
+    digest: bc30d58a02f5d49f993b61e545193c3af642d2ba73be7f97884dbd525be65ffa
     name: tesseract
     type: application
     urls:
@@ -24,7 +24,7 @@ entries:
   upm-auth-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-16T17:46:45.304487794+08:00"
+    created: "2023-10-16T17:52:07.656921359+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -41,7 +41,7 @@ entries:
   upm-gateway-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-16T17:46:45.30468675+08:00"
+    created: "2023-10-16T17:52:07.657218363+08:00"
     description: A Helm chart for Kubernetes
     digest: 65f96009ba09689988719270ebf238bc36c0a1d70b3fde7a9b6ac2b9730943cc
     name: upm-gateway-ms
@@ -52,7 +52,7 @@ entries:
   upm-operatelog-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-16T17:46:45.304878603+08:00"
+    created: "2023-10-16T17:52:07.657507005+08:00"
     description: A Helm chart for Kubernetes
     digest: 3f5bfaf0b74ce1c8d02b5c5bc7cb9aa7c3b7cad7c43e439319f9dd389ec7671e
     name: upm-operatelog-ms
@@ -63,7 +63,7 @@ entries:
   upm-resource-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-16T17:46:45.305486218+08:00"
+    created: "2023-10-16T17:52:07.65839008+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -80,7 +80,7 @@ entries:
   upm-service-easysearch-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-16T17:46:45.305697386+08:00"
+    created: "2023-10-16T17:52:07.658616516+08:00"
     description: A Helm chart for Kubernetes
     digest: 5123414f92a5ceec60a46dd340c8952773b2c9b85f37eb1ae35502039d419984
     name: upm-service-easysearch-ms
@@ -91,7 +91,7 @@ entries:
   upm-service-kafka-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-16T17:46:45.305888242+08:00"
+    created: "2023-10-16T17:52:07.658820404+08:00"
     description: A Helm chart for Kubernetes
     digest: a8f7c33682d578005117521235c54cf61c10bed7fd02cd3cd39a08e030fe57e3
     name: upm-service-kafka-ms
@@ -102,7 +102,7 @@ entries:
   upm-service-mysql-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-16T17:46:45.306082312+08:00"
+    created: "2023-10-16T17:52:07.659017192+08:00"
     description: A Helm chart for Kubernetes
     digest: 2ed1e322b344409523f1fd422bd0ba28f3b4f82cc8625752910680fa99ba2520
     name: upm-service-mysql-ms
@@ -113,7 +113,7 @@ entries:
   upm-user-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-16T17:46:45.306278023+08:00"
+    created: "2023-10-16T17:52:07.659218501+08:00"
     description: A Helm chart for Kubernetes
     digest: ca9ebafa3265586a53a08a1047c3f4550ec3d04e31b7f58a3374d6585f966e70
     name: upm-user-ms
@@ -121,4 +121,4 @@ entries:
     urls:
     - https://upmio.github.io/helm-charts/upm-user-ms/upm-user-ms-1.1.0.tgz
     version: 1.1.0
-generated: "2023-10-16T17:46:45.301136238+08:00"
+generated: "2023-10-16T17:52:07.653421591+08:00"
