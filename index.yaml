@@ -3,7 +3,7 @@ entries:
   gauntlet:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.305442039+08:00"
+    created: "2023-10-31T15:28:43.678708714+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -24,7 +24,7 @@ entries:
   scepter:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.306707537+08:00"
+    created: "2023-10-31T15:28:43.680282178+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -45,7 +45,7 @@ entries:
   tesseract:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.309844571+08:00"
+    created: "2023-10-31T15:28:43.683569524+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -66,7 +66,7 @@ entries:
   upm-auth-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.310660652+08:00"
+    created: "2023-10-31T15:28:43.684510797+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -83,7 +83,7 @@ entries:
   upm-engine:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.316694558+08:00"
+    created: "2023-10-31T15:28:43.689910503+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -115,7 +115,7 @@ entries:
   upm-gateway-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.317427848+08:00"
+    created: "2023-10-31T15:28:43.690865891+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -132,7 +132,7 @@ entries:
   upm-operatelog-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.318707148+08:00"
+    created: "2023-10-31T15:28:43.691535571+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -140,7 +140,7 @@ entries:
       - bitnami-common
       version: 2.x.x
     description: Chart for upm operatelog
-    digest: f83b9edc52c592980bc85fe7ca8076277302fb5452f8f16a6f5115b8ef7b5faa
+    digest: 3c1961d6df2323f8cd391c9083e6295f57f7693e3589d3bd4c4a33827ddeb0ca
     name: upm-operatelog-ms
     type: application
     urls:
@@ -149,7 +149,7 @@ entries:
   upm-platform:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.325854545+08:00"
+    created: "2023-10-31T15:28:43.698663926+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -220,7 +220,7 @@ entries:
   upm-resource-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.326557167+08:00"
+    created: "2023-10-31T15:28:43.699765742+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -228,7 +228,7 @@ entries:
       - bitnami-common
       version: 2.x.x
     description: Chart for upm resource
-    digest: 6260718d9ba1c66f9f5041c813282162861a5d6ea4bc455ae29188087506cf64
+    digest: de4f1ff1e51e607a898fdbc142d5c791b216bc0f71aec26a1d5a17f02dd14b10
     name: upm-resource-ms
     type: application
     urls:
@@ -237,7 +237,7 @@ entries:
   upm-service-easysearch-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.327239777+08:00"
+    created: "2023-10-31T15:28:43.700598962+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -245,7 +245,7 @@ entries:
       - bitnami-common
       version: 2.x.x
     description: Chart for upm service easysearch
-    digest: 9da81d1dd69af374c6ef69dcbb615a116d98a1408b9bcf6eb858d84edf56b9f2
+    digest: 20144b013401051927a0b862471095d05a235fca0000fa4809a5cd8c4d27a2a2
     name: upm-service-easysearch-ms
     type: application
     urls:
@@ -254,7 +254,7 @@ entries:
   upm-service-kafka-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.32796964+08:00"
+    created: "2023-10-31T15:28:43.701281935+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -262,7 +262,7 @@ entries:
       - bitnami-common
       version: 2.x.x
     description: Chart for upm service kafka
-    digest: 4951bc1e31e8be5724d4d4cf6717e431a5e4d46b309b3a4aa6e95a343550224b
+    digest: d3cb048d5dbb21c44ca33b93c7c25d552d7adea3c8197d4d6a5977cbc2a7aa5c
     name: upm-service-kafka-ms
     type: application
     urls:
@@ -271,7 +271,7 @@ entries:
   upm-service-mysql-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.328720666+08:00"
+    created: "2023-10-31T15:28:43.701942921+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -279,7 +279,7 @@ entries:
       - bitnami-common
       version: 2.x.x
     description: Chart for upm service mysql
-    digest: 291e2a2329224d6bd218dea71e5e697324f9e140abeea5235885ca6f99d3b2d5
+    digest: cd570257857d3399537186b8926a0af64a3b79db12572faafb165c87c5cd6706
     name: upm-service-mysql-ms
     type: application
     urls:
@@ -288,7 +288,7 @@ entries:
   upm-ui:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.329538033+08:00"
+    created: "2023-10-31T15:28:43.702911953+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -305,7 +305,7 @@ entries:
   upm-user-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-10-23T13:53:20.330419537+08:00"
+    created: "2023-10-31T15:28:43.703579382+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -313,10 +313,10 @@ entries:
       - bitnami-common
       version: 2.x.x
     description: Chart for upm user
-    digest: 370a29f7aa8962e347cb657c114c1d93927b3330beedeac990931777e9e93592
+    digest: a41c7aa7f2751531e051329241011b6983bf6129e0396dbe0223e4c502299e80
     name: upm-user-ms
     type: application
     urls:
     - https://upmio.github.io/helm-charts/upm-user-ms/upm-user-ms-1.1.0.tgz
     version: 1.1.0
-generated: "2023-10-23T13:53:20.304415965+08:00"
+generated: "2023-10-31T15:28:43.677339373+08:00"
