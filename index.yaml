@@ -3,7 +3,7 @@ entries:
   gauntlet:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.554110713+08:00"
+    created: "2024-02-01T10:53:55.901989902+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -23,7 +23,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.552898924+08:00"
+    created: "2024-02-01T10:53:55.900123878+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -44,7 +44,27 @@ entries:
   scepter:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.558120093+08:00"
+    created: "2024-02-01T10:53:55.908363321+08:00"
+    dependencies:
+    - name: common
+      repository: https://charts.bitnami.com/bitnami
+      tags:
+      - bitnami-common
+      version: 2.x.x
+    - condition: crds.enabled
+      name: crds
+      repository: ""
+      version: 0.1.0
+    description: Chart for upm unitset controller
+    digest: 8490f47a3b9ce7147deccdd74330162c6066a9e39b808061b5119b0b5c4013ff
+    name: scepter
+    type: application
+    urls:
+    - https://upmio.github.io/helm-charts/scepter/scepter-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2024-02-01T10:53:55.906121087+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -65,7 +85,27 @@ entries:
   tesseract:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.562321638+08:00"
+    created: "2024-02-01T10:53:55.922247314+08:00"
+    dependencies:
+    - name: common
+      repository: https://charts.bitnami.com/bitnami
+      tags:
+      - bitnami-common
+      version: 2.x.x
+    - condition: crds.enabled
+      name: crds
+      repository: ""
+      version: 0.1.0
+    description: Chart for upm unit controller
+    digest: d8dea890ca8975278df9afb3dd4fe3061e7be43af1d61bda4bdf4f33a1d24e4b
+    name: tesseract
+    type: application
+    urls:
+    - https://upmio.github.io/helm-charts/tesseract/tesseract-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2024-02-01T10:53:55.918255946+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -86,7 +126,7 @@ entries:
   upm-auth-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.563409666+08:00"
+    created: "2024-02-01T10:53:55.923269092+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -103,7 +143,7 @@ entries:
   upm-engine:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.571792894+08:00"
+    created: "2024-02-01T10:53:55.933726774+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -135,7 +175,7 @@ entries:
   upm-gateway-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.572850108+08:00"
+    created: "2024-02-01T10:53:55.934850014+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -152,7 +192,7 @@ entries:
   upm-operatelog-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.574172008+08:00"
+    created: "2024-02-01T10:53:55.93651851+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -169,7 +209,7 @@ entries:
   upm-platform:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.586535975+08:00"
+    created: "2024-02-01T10:53:55.951569972+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -246,7 +286,7 @@ entries:
   upm-resource-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.587504027+08:00"
+    created: "2024-02-01T10:53:55.953598809+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -263,7 +303,7 @@ entries:
   upm-service-easysearch-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.588494664+08:00"
+    created: "2024-02-01T10:53:55.955712858+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -280,7 +320,7 @@ entries:
   upm-service-kafka-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.589472507+08:00"
+    created: "2024-02-01T10:53:55.956945587+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -297,7 +337,7 @@ entries:
   upm-service-mysql-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.59044614+08:00"
+    created: "2024-02-01T10:53:55.959749616+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -314,7 +354,7 @@ entries:
   upm-service-zookeeper-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.591445915+08:00"
+    created: "2024-02-01T10:53:55.961972624+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -331,7 +371,7 @@ entries:
   upm-ui:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.592511358+08:00"
+    created: "2024-02-01T10:53:55.963444144+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -348,7 +388,7 @@ entries:
   upm-user-ms:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-01-31T17:00:10.593627115+08:00"
+    created: "2024-02-01T10:53:55.965188929+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -362,4 +402,4 @@ entries:
     urls:
     - https://upmio.github.io/helm-charts/upm-user-ms/upm-user-ms-1.1.0.tgz
     version: 1.1.0
-generated: "2024-01-31T17:00:10.551327169+08:00"
+generated: "2024-02-01T10:53:55.897550624+08:00"
