@@ -3,7 +3,7 @@ entries:
   apiserver:
   - apiVersion: v2
     appVersion: v1.2.2
-    created: "2024-11-10T20:25:09.128277+08:00"
+    created: "2024-11-10T20:28:39.544002+08:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -109,7 +109,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.110106+08:00"
+    created: "2024-11-10T20:28:39.525838+08:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -215,7 +215,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.179261+08:00"
+    created: "2024-11-10T20:28:39.594376+08:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -315,7 +315,7 @@ entries:
   epm-auth-ms:
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.128864+08:00"
+    created: "2024-11-10T20:28:39.544612+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -332,7 +332,7 @@ entries:
   epm-engine:
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.13443+08:00"
+    created: "2024-11-10T20:28:39.549991+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -358,7 +358,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.132211+08:00"
+    created: "2024-11-10T20:28:39.548108+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -385,7 +385,7 @@ entries:
   epm-gateway-ms:
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.13503+08:00"
+    created: "2024-11-10T20:28:39.550579+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -402,7 +402,7 @@ entries:
   epm-operatelog-ms:
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.135642+08:00"
+    created: "2024-11-10T20:28:39.551231+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -419,7 +419,7 @@ entries:
   epm-platform:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2024-11-10T20:25:09.145097+08:00"
+    created: "2024-11-10T20:28:39.560941+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -484,7 +484,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.1403+08:00"
+    created: "2024-11-10T20:28:39.555839+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -543,7 +543,7 @@ entries:
   epm-resource-ms:
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.146037+08:00"
+    created: "2024-11-10T20:28:39.561787+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -560,7 +560,7 @@ entries:
   epm-service-easysearch-ms:
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.146607+08:00"
+    created: "2024-11-10T20:28:39.562513+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -577,7 +577,7 @@ entries:
   epm-ui:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2024-11-10T20:25:09.147187+08:00"
+    created: "2024-11-10T20:28:39.563096+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -594,7 +594,7 @@ entries:
   epm-user-ms:
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.147748+08:00"
+    created: "2024-11-10T20:28:39.563657+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -611,7 +611,7 @@ entries:
   gauntlet:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.14957+08:00"
+    created: "2024-11-10T20:28:39.565359+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -631,7 +631,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.14894+08:00"
+    created: "2024-11-10T20:28:39.564799+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -651,7 +651,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.148312+08:00"
+    created: "2024-11-10T20:28:39.564226+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -672,7 +672,7 @@ entries:
   helix:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2024-11-10T20:25:09.150237+08:00"
+    created: "2024-11-10T20:28:39.566259+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -689,7 +689,7 @@ entries:
   kauntlet:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.152955+08:00"
+    created: "2024-11-10T20:28:39.568818+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -709,7 +709,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2024-11-10T20:25:09.152294+08:00"
+    created: "2024-11-10T20:28:39.568167+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -729,7 +729,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.151623+08:00"
+    created: "2024-11-10T20:28:39.567512+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -749,7 +749,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2024-11-10T20:25:09.150991+08:00"
+    created: "2024-11-10T20:28:39.566875+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -770,7 +770,7 @@ entries:
   scepter:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.156106+08:00"
+    created: "2024-11-10T20:28:39.571818+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -790,7 +790,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.155108+08:00"
+    created: "2024-11-10T20:28:39.570899+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -810,7 +810,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.153834+08:00"
+    created: "2024-11-10T20:28:39.569934+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -831,7 +831,7 @@ entries:
   tesseract:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.162021+08:00"
+    created: "2024-11-10T20:28:39.577408+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -851,7 +851,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.159834+08:00"
+    created: "2024-11-10T20:28:39.575489+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -871,7 +871,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.158156+08:00"
+    created: "2024-11-10T20:28:39.573785+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -892,7 +892,7 @@ entries:
   tesseract-cube:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.163447+08:00"
+    created: "2024-11-10T20:28:39.578764+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -912,7 +912,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2024-11-10T20:25:09.162769+08:00"
+    created: "2024-11-10T20:28:39.578077+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -933,7 +933,7 @@ entries:
   ui:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2024-11-10T20:25:09.163984+08:00"
+    created: "2024-11-10T20:28:39.579335+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -950,7 +950,7 @@ entries:
   upm-apiserver:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.187181+08:00"
+    created: "2024-11-10T20:28:39.601948+08:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -977,7 +977,7 @@ entries:
   upm-auth-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.188713+08:00"
+    created: "2024-11-10T20:28:39.603463+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -993,7 +993,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.188217+08:00"
+    created: "2024-11-10T20:28:39.602959+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1009,7 +1009,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.187698+08:00"
+    created: "2024-11-10T20:28:39.602463+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1025,8 +1025,31 @@ entries:
     version: 1.1.0
   upm-control:
   - apiVersion: v2
+    appVersion: v1.2.2
+    created: "2024-11-10T20:28:39.63908+08:00"
+    dependencies:
+    - alias: ui
+      name: ui
+      repository: https://upmio.github.io/helm-charts
+      tags:
+      - ui
+      version: 1.2.1
+    - alias: apiserver
+      name: apiserver
+      repository: https://upmio.github.io/helm-charts
+      tags:
+      - apiserver
+      version: 1.2.2
+    description: Chart for UPM-control
+    digest: 95dd064d8e415c49288af38aab686bf8a2f44ec004c6f4a1d656de3cc092cc51
+    name: upm-control
+    type: application
+    urls:
+    - https://upmio.github.io/helm-charts/upm-control/upm-control-1.2.2.tgz
+    version: 1.2.2
+  - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.207194+08:00"
+    created: "2024-11-10T20:28:39.620659+08:00"
     dependencies:
     - alias: ui
       name: ui
@@ -1050,7 +1073,7 @@ entries:
   upm-engine:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.215669+08:00"
+    created: "2024-11-10T20:28:39.647737+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1076,7 +1099,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.212122+08:00"
+    created: "2024-11-10T20:28:39.644185+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1102,7 +1125,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.210438+08:00"
+    created: "2024-11-10T20:28:39.642488+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1128,7 +1151,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.208815+08:00"
+    created: "2024-11-10T20:28:39.640819+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1155,7 +1178,7 @@ entries:
   upm-gateway-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.217216+08:00"
+    created: "2024-11-10T20:28:39.649374+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1171,7 +1194,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.216701+08:00"
+    created: "2024-11-10T20:28:39.648818+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1187,7 +1210,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.216189+08:00"
+    created: "2024-11-10T20:28:39.648288+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1204,7 +1227,7 @@ entries:
   upm-operatelog-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.219298+08:00"
+    created: "2024-11-10T20:28:39.650933+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1220,7 +1243,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.218733+08:00"
+    created: "2024-11-10T20:28:39.650423+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1236,7 +1259,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.217717+08:00"
+    created: "2024-11-10T20:28:39.649894+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1253,7 +1276,7 @@ entries:
   upm-platform:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.251809+08:00"
+    created: "2024-11-10T20:28:39.683329+08:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1364,7 +1387,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2024-11-10T20:25:09.235581+08:00"
+    created: "2024-11-10T20:28:39.667061+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1471,7 +1494,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.2271+08:00"
+    created: "2024-11-10T20:28:39.658767+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1579,7 +1602,7 @@ entries:
   upm-resource-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.253442+08:00"
+    created: "2024-11-10T20:28:39.684907+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1595,7 +1618,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.252934+08:00"
+    created: "2024-11-10T20:28:39.684397+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1611,7 +1634,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.252368+08:00"
+    created: "2024-11-10T20:28:39.683867+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1628,7 +1651,7 @@ entries:
   upm-service-cnpg-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.253945+08:00"
+    created: "2024-11-10T20:28:39.68542+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1645,7 +1668,7 @@ entries:
   upm-service-easysearch-ms:
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.255013+08:00"
+    created: "2024-11-10T20:28:39.68649+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1661,7 +1684,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.254486+08:00"
+    created: "2024-11-10T20:28:39.68595+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1678,7 +1701,7 @@ entries:
   upm-service-elasticsearch-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.256548+08:00"
+    created: "2024-11-10T20:28:39.688022+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1694,7 +1717,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.256036+08:00"
+    created: "2024-11-10T20:28:39.687521+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1710,7 +1733,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.25552+08:00"
+    created: "2024-11-10T20:28:39.687015+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1727,7 +1750,7 @@ entries:
   upm-service-kafka-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.258513+08:00"
+    created: "2024-11-10T20:28:39.689619+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1743,7 +1766,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.257988+08:00"
+    created: "2024-11-10T20:28:39.689085+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1759,7 +1782,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.257165+08:00"
+    created: "2024-11-10T20:28:39.688546+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1776,7 +1799,7 @@ entries:
   upm-service-mysql-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.260061+08:00"
+    created: "2024-11-10T20:28:39.691591+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1792,7 +1815,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.259566+08:00"
+    created: "2024-11-10T20:28:39.690944+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1808,7 +1831,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.259047+08:00"
+    created: "2024-11-10T20:28:39.690179+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1825,7 +1848,7 @@ entries:
   upm-service-postgresql-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.261928+08:00"
+    created: "2024-11-10T20:28:39.69327+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1841,7 +1864,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.261095+08:00"
+    created: "2024-11-10T20:28:39.692725+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1857,7 +1880,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.260579+08:00"
+    created: "2024-11-10T20:28:39.692156+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1874,7 +1897,7 @@ entries:
   upm-service-redis-cluster-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.263523+08:00"
+    created: "2024-11-10T20:28:39.694851+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1890,7 +1913,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.263007+08:00"
+    created: "2024-11-10T20:28:39.694319+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1906,7 +1929,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.26248+08:00"
+    created: "2024-11-10T20:28:39.693809+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1923,7 +1946,7 @@ entries:
   upm-service-redis-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.265032+08:00"
+    created: "2024-11-10T20:28:39.69677+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1939,7 +1962,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.264527+08:00"
+    created: "2024-11-10T20:28:39.696236+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1955,7 +1978,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.264024+08:00"
+    created: "2024-11-10T20:28:39.695497+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1972,7 +1995,7 @@ entries:
   upm-service-zookeeper-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.26702+08:00"
+    created: "2024-11-10T20:28:39.698344+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1988,7 +2011,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.266508+08:00"
+    created: "2024-11-10T20:28:39.697826+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -2004,7 +2027,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.265548+08:00"
+    created: "2024-11-10T20:28:39.697313+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -2021,7 +2044,7 @@ entries:
   upm-ui:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2024-11-10T20:25:09.268069+08:00"
+    created: "2024-11-10T20:28:39.699395+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -2037,7 +2060,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-11-10T20:25:09.26755+08:00"
+    created: "2024-11-10T20:28:39.698842+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -2054,7 +2077,7 @@ entries:
   upm-user-ms:
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-11-10T20:25:09.269662+08:00"
+    created: "2024-11-10T20:28:39.701341+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -2070,7 +2093,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.269149+08:00"
+    created: "2024-11-10T20:28:39.700824+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -2086,7 +2109,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-10T20:25:09.268592+08:00"
+    created: "2024-11-10T20:28:39.700267+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -2100,4 +2123,4 @@ entries:
     urls:
     - https://upmio.github.io/helm-charts/upm-user-ms/upm-user-ms-1.1.0.tgz
     version: 1.1.0
-generated: "2024-11-10T20:25:09.088732+08:00"
+generated: "2024-11-10T20:28:39.505839+08:00"
